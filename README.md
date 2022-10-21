@@ -8,3 +8,5 @@ Part 2 = Used Family heights data and Maternal data to find correlation,regressi
 Demo Multiple Linear Regression = Split, trained and tested data,using the  Penguins Dataset.
 
 Demo Simple Linear Regression = Used penguins Dataset to find the relation between flipper length and body mass.
+
+Did analysis on Airbnb listings in NYC in 2019
